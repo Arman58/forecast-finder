@@ -1,0 +1,10 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  padding: 1.5rem 0;
+  left: 50%;
+  text-align: center;
+  transform: translateX(-50%);
+  border-top: solid 2px #ff8a80;
+  letter-spacing: 0.3px;
+}
